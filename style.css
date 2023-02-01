@@ -92,6 +92,7 @@ body {
   border: 0px;
   border-radius: none;
   background-color: var(--search-color);
+  color: var(--font-color);
 }
 
 .headerCenter form button {
@@ -257,6 +258,7 @@ hr {
 
 .singleVideo {
   margin: 0px 5px 30px 5px;
+  height: auto;
 }
 
 .videoDetails {
